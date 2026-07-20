@@ -5,7 +5,8 @@ This repository contains my solution to recursion problems while learning data s
 - Subsequent wiit sum K
 - Print any one subsequences with sum K
 - Count subsequences with sum k
-- combination sum
+- Combination sum
+- Combination sum II
 
 
 Language:-C++
