@@ -8,8 +8,9 @@ This repository contains my solution to recursion problems while learning data s
 - Combination sum
 - Combination sum II
 - Combination sum III
+- Merge Sort
 
 
-Language:-C++
+Language:- C++
 
 I will keep updating this repository as I learn new recursion and backtracking concepts.
