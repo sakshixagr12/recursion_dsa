@@ -11,6 +11,7 @@ This repository contains my solution to recursion problems while learning data s
 - Merge Sort
 - Quick Sort
 - Subset Sum I
+- Subset Sum II
 
 
 Language:- C++
