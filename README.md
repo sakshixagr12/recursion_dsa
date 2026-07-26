@@ -10,6 +10,7 @@ This repository contains my solution to recursion problems while learning data s
 - Combination sum III
 - Merge Sort
 - Quick Sort
+- Subset Sum I
 
 
 Language:- C++
