@@ -12,6 +12,7 @@ This repository contains my solution to recursion problems while learning data s
 - Quick Sort
 - Subset Sum I
 - Subset Sum II
+- Permutations
 
 
 Language:- C++
