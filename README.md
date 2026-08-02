@@ -13,6 +13,9 @@ This repository contains my solution to recursion problems while learning data s
 - Subset Sum I
 - Subset Sum II
 - Permutations
+- N-Queen I
+- N-Queen II
+- Sudoku Solver
 
 
 Language:- C++
